@@ -8,11 +8,10 @@
     "dev": "nodemon src/consumer.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Buhori",
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.10.4",
-    "auto-bind": "^4.0.0",
     "dotenv": "^16.4.5",
     "nodemailer": "^6.9.14",
     "pg": "^8.12.0"
